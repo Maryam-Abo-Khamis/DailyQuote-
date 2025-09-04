@@ -153,9 +153,9 @@ window.onload=function(){
     }else {
         localStorage.setItem('qoutDay', message.innerHTML)
     }
-    if(localStorage.getItem('index-pic')){
+    if(localStorage.getItem('index-pic')&&localStorage.getItem('index-pic')<9){
         let index=localStorage.getItem('index-pic');
-        partOne.style.cssText=`background-image: url(img/pic${index}.jpg)`
+        partOne.style.cssText=`background-image: url(imgs/img${index}.webp)`
     }
     else{
         localStorage.setItem('index-pic',0)
