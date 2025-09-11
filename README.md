@@ -30,7 +30,7 @@ A web app that delivers daily quotes to inspire positivity and optimism. Users c
 ## 🌐 Live Demo
 
 Check out the website here:  
-[GitHub Pages Link] ([https://yourusername.github.io/your-repo](https://maryam-abo-khamis.github.io/DailyQuote-/))
+[GitHub Pages Link] (https://maryam-abo-khamis.github.io/DailyQuote-/)
 
 ## 🤝 Contributing
 
@@ -39,5 +39,6 @@ Contributions are welcome! You can submit new quotes, improve design, or fix iss
 ## 📄 License
 
 This project is licensed under the MIT License.
+
 
 
